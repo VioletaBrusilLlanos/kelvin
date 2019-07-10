@@ -279,7 +279,7 @@ background-color: rgba(26, 163, 201, 1);
       <div class="MenuItemContainer clearfix grpelem" id="u16152"><!-- vertical box -->
        <div class="MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u16153"><!-- horizontal box -->
         <div class="MenuItemLabel NoWrap clearfix grpelem" id="u16155-4"><!-- content -->
-         <p class="shared_content" data-content-guid="u16155-4_0_content">INICIAR SECI&oacute;N</p>
+         <p class="shared_content" data-content-guid="u16155-4_0_content">INICIAR SECI&Oacute;N</p>
         </div>
        </div>
       </div>
@@ -288,7 +288,7 @@ background-color: rgba(26, 163, 201, 1);
     </div>
     <div class="verticalspacer" data-offset-top="1550" data-content-above-spacer="1549" data-content-below-spacer="61"></div>
     <div class="Texto--copia clearfix grpelem shared_content" id="u12018-5" data-content-guid="u12018-5_content"><!-- content -->
-     <p>Hecho con <span class="actAsInlineDiv normal_text" id="u12060"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u12043"><!-- image --><img class="temp_no_img_src" id="u12043_img" data-orig-src="images/corazon.png?crc=504275122" alt="" width="20" height="18" src="images/blank.gif?crc=4208392903"/></span></span> por AAL-GR1</p>
+     <p>Hecho con <span class="actAsInlineDiv normal_text" id="u12060"><!-- content --><span class="actAsDiv clip_frame excludeFromNormalFlow" id="u12043"><!-- image --><img class="temp_no_img_src" id="u12043_img" data-orig-src="images/corazon.png?crc=504275122" alt="" width="20" height="18" src="images/blank.gif?crc=4208392903"/></span></span> por APLICACIONES EN AMBIENTES LIBRES - GR1 2019-A</p>
     </div>
    </div>
    <div class="preload_images">
