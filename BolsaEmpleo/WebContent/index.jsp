@@ -186,7 +186,7 @@ background-color: rgba(26, 163, 201, 1);
           <h2>Nosotros</h2>
          </div>
          <div class="Texto clearfix colelem shared_content" id="u5152-4" data-content-guid="u5152-4_content"><!-- content -->
-          <p>El proyecto busca mejorar la calidad de vida de los artesanos de la construcción y además de resolver las limitadas oportunidades de trabajo para los Artesanos de la Construcción y atender la necesidad de la población, la cual requiere conocer la disponibilidad de Artesanos capacitados en los servicios necesitados</p>
+          <p>El proyecto busca mejorar la calidad de vida de los ciudadanos de la Provincia de Pichincha y atender la necesidad de la poblaci&oacuten, la cual requiere conocer la disponibilidad de Artesanos capacitados en los servicios necesitados</p>
          </div>
          <div class="colelem shared_content" id="u5322" data-content-guid="u5322_content"><!-- simple frame --></div>
         </div>
@@ -225,22 +225,22 @@ background-color: rgba(26, 163, 201, 1);
        <h3>Visi&oacuten</h3>
       </div>
       <div class="Texto clearfix ose_pre_init colelem" id="u5328-8"><!-- content -->
-       <p>El sistema Bolsa de Empleo usará la plataforma de Internet</p>
-       <p>y será construido con la participación</p>
+       <p>El sistema Bolsa de Empleo usar&aacute la plataforma de Internet</p>
+       <p>y ser&aacute construido con la participaci&oacuten</p>
        <p>de estudiantes, artesanos y personal del gobierno</p>
       </div>
      </div>
      <div class="clearfix mse_pre_init shared_content" id="u19534" data-content-guid="u19534_content"><!-- group -->
       <div class="clearfix grpelem" id="u19291"><!-- column -->
        <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19293-4" href="cursos/registro.jsp"><!-- content --><h3 class="Subt-tulos-H3" id="u19293-2">Cursos</h3></a>
-       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19292-4" href="cursos/registro.jsp"><!-- content --><p class="Texto" id="u19292-2">Descubre cursos que podrían interesarte</p></a>
+       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19292-4" href="cursos/registro.jsp"><!-- content --><p class="Texto" id="u19292-2">Descubre cursos que podr&iacutean interesarte</p></a>
       </div>
       <a class="nonblock nontext museBGSize ose_pre_init grpelem" id="u19473" href="cursos/registro.jsp"><!-- content --></a>
      </div>
      <div class="clearfix mse_pre_init shared_content" id="u19541" data-content-guid="u19541_content"><!-- group -->
       <div class="clearfix grpelem" id="u19328"><!-- column -->
        <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19330-4" href="servicios/SeleccionCanton.jsp"><!-- content --><h3 class="Subt-tulos-H3" id="u19330-2">Servicios</h3></a>
-       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19329-4" href="servicios/SeleccionCanton.jsp"><!-- content --><p class="Texto" id="u19329-2">Ponemos a tu disposición servicios de contratación</p></a>
+       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19329-4" href="servicios/SeleccionCanton.jsp"><!-- content --><p class="Texto" id="u19329-2">Ponemos a tu disposici&oacuten servicios de contrataci&oacuten</p></a>
       </div>
       <a class="nonblock nontext museBGSize ose_pre_init grpelem" id="u19480" href="servicios/SeleccionCantonS.jsp"><!-- content --></a>
      </div>
