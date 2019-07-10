@@ -157,14 +157,14 @@ background-color: rgba(26, 163, 201, 1);
        <div class="MenuItemContainer clearfix grpelem" id="u2130"><!-- vertical box -->
         <a class="nonblock nontextMenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u2133" href="cursos/registro.jsp"><!-- horizontal box -->
          <div class="MenuItemLabel NoWrap clearfix grpelem" id="u2136-4"><!-- content -->
-          <p>cURSOS</p>
+          <p>CURSOS</p>
          </div>
         </a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u2116"><!-- vertical box -->
         <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u2119" href="servicios/SeleccionCanton.jsp"><!-- horizontal box -->
           <div class="MenuItemLabel NoWrap clearfix grpelem" id="u2122-4"><!-- content -->
-            <p>sERVICIOS</p>
+            <p>SERVICIOS</p>
           </div>
         </a>
        </div>
@@ -210,19 +210,19 @@ background-color: rgba(26, 163, 201, 1);
     <div class="clearfix grpelem" id="pu5323"><!-- group -->
      <div class="clearfix mse_pre_init shared_content" id="u5323" data-content-guid="u5323_content"><!-- column -->
       <div class="Subt-tulos-H3 clearfix ose_pre_init colelem" id="u5326-4"><!-- content -->
-       <h3>Misión</h3>
+       <h3>Misi&oacuten</h3>
       </div>
       <div class="Texto clearfix ose_pre_init colelem" id="u5324-12"><!-- content -->
        <p>El objetivo del proyecto</p>
        <p>es mejorar la Calidad de Vida</p>
-       <p>de los Artesanos</p>
-       <p>de la Construcción</p>
+       <p>de los Ciudadanos de la Provincia</p>
+       <p>de Pichincha</p>
        <p>y sus familias</p>
       </div>
      </div>
      <div class="clearfix mse_pre_init shared_content" id="u5327" data-content-guid="u5327_content"><!-- column -->
       <div class="Subt-tulos-H3 clearfix ose_pre_init colelem" id="u5330-4"><!-- content -->
-       <h3>Visión</h3>
+       <h3>Visi&oacuten</h3>
       </div>
       <div class="Texto clearfix ose_pre_init colelem" id="u5328-8"><!-- content -->
        <p>El sistema Bolsa de Empleo usará la plataforma de Internet</p>
