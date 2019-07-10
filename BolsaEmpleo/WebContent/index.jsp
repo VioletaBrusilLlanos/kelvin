@@ -162,9 +162,9 @@ background-color: rgba(26, 163, 201, 1);
         </a>
        </div>
        <div class="MenuItemContainer clearfix grpelem" id="u2116"><!-- vertical box -->
-        <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u2119" href="servicios/registro.jsp"><!-- horizontal box -->
+        <a class="nonblock nontext MenuItem MenuItemWithSubMenu transition rounded-corners clearfix colelem" id="u2119" href="servicios/SeleccionCanton.jsp"><!-- horizontal box -->
           <div class="MenuItemLabel NoWrap clearfix grpelem" id="u2122-4"><!-- content -->
-            <p>sERVICOS</p>
+            <p>sERVICIOS</p>
           </div>
         </a>
        </div>
@@ -239,10 +239,10 @@ background-color: rgba(26, 163, 201, 1);
      </div>
      <div class="clearfix mse_pre_init shared_content" id="u19541" data-content-guid="u19541_content"><!-- group -->
       <div class="clearfix grpelem" id="u19328"><!-- column -->
-       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19330-4" href="servicios/registro.jsp"><!-- content --><h3 class="Subt-tulos-H3" id="u19330-2">Servicios</h3></a>
-       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19329-4" href="servicios/registro.jsp"><!-- content --><p class="Texto" id="u19329-2">Ponemos a tu disposición servicios de contratación</p></a>
+       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19330-4" href="servicios/SeleccionCanton.jsp"><!-- content --><h3 class="Subt-tulos-H3" id="u19330-2">Servicios</h3></a>
+       <a class="nonblock nontext clearfix ose_pre_init colelem" id="u19329-4" href="servicios/SeleccionCanton.jsp"><!-- content --><p class="Texto" id="u19329-2">Ponemos a tu disposición servicios de contratación</p></a>
       </div>
-      <a class="nonblock nontext museBGSize ose_pre_init grpelem" id="u19480" href="servicios/registro.jsp"><!-- content --></a>
+      <a class="nonblock nontext museBGSize ose_pre_init grpelem" id="u19480" href="servicios/SeleccionCantonS.jsp"><!-- content --></a>
      </div>
      <div class="clearfix mse_pre_init" id="u19560"><!-- group -->
       <div class="clearfix grpelem shared_content" id="u19254" data-content-guid="u19254_content"><!-- column -->
